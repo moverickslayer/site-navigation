@@ -1,0 +1,16 @@
+{
+    "name": "orckid/tree-menu",
+    "description": "Build tree menu html navigation",
+    "type": "laravel",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+        "illuminate/support": "~5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Orckid\\TreeMenu\\": "src/"
+        }
+    }
+}
