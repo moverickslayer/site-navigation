@@ -11,7 +11,7 @@ class TreeMenu
 
 	public function __construct()
 	{
-
+		echo 'test';
 	}
 
 	/**
